@@ -4,8 +4,8 @@ The dataset I use for the Netflix data analytics task consists of TV shows and m
 The dataset is provided by Flixable which is an engine of third-party research available on Netflix.
 
 ## Modules Used
-   
-Pandas
-Pyplot
+
+Numpy,
+Pandas,
+Pyplot,
 TextBlob
-Numpy
